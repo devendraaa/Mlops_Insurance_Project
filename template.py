@@ -3,6 +3,8 @@ from pathlib import Path
 
 # db user and password-- devendrachavan31 -- 75DLAYXf04oi1iz0
 
+# conection string -- mongodb+srv://devendrachavan31:75DLAYXf04oi1iz0@cluster0.vwef2qg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 project_name = "src"
 
 list_of_files = [
