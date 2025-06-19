@@ -28,7 +28,7 @@ class MyException(Exception):
     """
     Custom exception class for handling errors in the US visa application.
     """
-    def __init__(self, error_message: str, error_detail: sys):
+    def __init__(self, error_message: str, error_detail: sys): # constructor
         """
         Initializes the USvisaException with a detailed error message.
 

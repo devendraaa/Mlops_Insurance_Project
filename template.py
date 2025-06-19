@@ -5,6 +5,7 @@ from pathlib import Path
 
 # conection string -- mongodb+srv://devendrachavan31:75DLAYXf04oi1iz0@cluster0.vwef2qg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
+# $env:MONGODB_URL = "mongodb+srv://devendrachavan31:75DLAYXf04oi1iz0"
 project_name = "src"
 
 list_of_files = [
